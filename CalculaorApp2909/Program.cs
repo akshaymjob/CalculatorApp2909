@@ -5,9 +5,9 @@ void calculatorApp2909()
 { try
     {
 
-        Console.WriteLine("Enter the first Number:");
+        Console.WriteLine("Enter the first Number");
         int firstNumber = Convert.ToInt32(Console.ReadLine());
-        s
+        
 
         Console.WriteLine("Enter the second Number");
         int secondNumber = Convert.ToInt32(Console.ReadLine());
